@@ -7,3 +7,4 @@ def function(str1,str2):
                         print 'not found'
 
 
+print 'this is another line'
